@@ -1,0 +1,32 @@
+# 🎉 Birthday Reminder App (Python)
+
+A simple and fun Python project that lets you:
+
+✅ Add birthdays  
+✅ Save them in a file  
+✅ Check if today is anyone’s birthday
+
+---
+
+## 💻 How It Works
+
+- You can add new birthdays and check today’s birthday(s)
+- Birthdays are stored in a file named `birthdays.txt`
+
+---
+
+## 🧠 Skills Used
+
+- Python basics (`input`, `if`, `functions`)
+- File handling
+- Date comparison using `datetime`
+
+---
+
+## 🚀 How to Run
+
+1. Make sure Python is installed
+2. Run the script:
+
+```bash
+python birthday_reminder.py
